@@ -1,4 +1,8 @@
 body {
+    background-image: '3576359.jpg';
+    background-repeat: no-repeat;
+    background-size: cover;
+    
     font-family: sans-serif;
     line-height: 1.5;
   
@@ -8,14 +12,6 @@ body {
     width: 980px;
     margin: 0 auto;
   }
-
-<style>
-  body {
-    background-image: '3576359.jpg';
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-</style>
   
   h1 {
     text-align: center;
